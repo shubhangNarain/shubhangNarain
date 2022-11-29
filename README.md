@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubhang</h1>
-<h3 align="center">Building beautiful projects from scratch</h3>
+<h1 align="left">Hi 👋, I'm Shubhang</h1>
+<h3 align="left">Building beautiful projects from scratch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangnarain&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangnarain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangnarain" alt="shubhangnarain" /></a> </p>
 
 - 🔭 I’m currently working on **Developing beautiful responsive webapps/websites**
 
@@ -30,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangnarain&show_icons=true&locale=en&layout=compact" alt="shubhangnarain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangnarain&show_icons=true&locale=en" alt="shubhangnarain" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhangnarain&show_icons=true&locale=en" alt="shubhangnarain" /></p>

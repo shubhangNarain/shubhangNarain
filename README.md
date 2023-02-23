@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shubhang</h1>
 <h3 align="left">Building beautiful projects from scratch</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangnarain&show_icons=true&locale=en&layout=compact" alt="shubhangnarain" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangnarain&show_icons=true&locale=en&layout=compact" alt="shubhangnarain" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangnarain&show_icons=true&locale=en" alt="shubhangnarain" /></p>
 
 

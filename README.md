@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Developing beautiful responsive webapps/websites**
 
-- 🌱 I’m currently learning **VueJS, OpenSource dev**
+- 🌱 I’m currently learning **NextJS, Docker, Tigris DB, OpenSource dev**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Building scalabpe tech solutions**
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 How to reach me **snvishere@gmail.com**
-
-- ⚡ Fun fact **I'll bore you up with Data Structures and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

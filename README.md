@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **snvishere@gmail.com**
 
-<a href="https://app.daily.dev/snvishere"><img align="right" src="https://api.daily.dev/devcards/120d0d2036864449b6f9df40466b99d5.png?r=1h8" width="400" alt="Shubhang Narain's Dev Card"/></a>
+<a href="https://app.daily.dev/snvishere"><img align="right" src="https://api.daily.dev/devcards/120d0d2036864449b6f9df40466b99d5.png?r=1h8" height="400" width="300" alt="Shubhang Narain's Dev Card"/></a>
 
 
 <!-- Social Links: -->

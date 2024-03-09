@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Developing beautiful responsive webapps/websites**
+- 🔭 I’m currently working on **Developing beautiful responsive WebApps/Websites**
 
 - 🌱 I’m currently learning **NextJS, Docker, Tigris DB, OpenSource dev**
 
-- 👯 I’m looking to collaborate on **Building scalabpe tech solutions**
+- 👯 I’m looking to collaborate on **Building scalable tech solutions**
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
